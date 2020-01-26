@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Cumaks Antons](https://up.htmlacademy.ru/htmlcss/27/user/1335003).
+* Наставник: [Дмитрий Мирошниченко](https://up.htmlacademy.ru/htmlcss/27/module/1/lecture).
 
 ---
 
